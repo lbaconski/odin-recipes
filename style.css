@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+}
+
+h1,
+h2,
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(12, 12, 99);
+    text-align: center;
+}
+
+img{
+    padding: 0 10vw 0 10vw;
+}
+
+a {
+    color: gray;
+    font-weight: 800;
+    text-decoration: none;
+
+}
+
+li {
+    align-self: center;
+}
+
+p,
+li {
+    color: rgb(9, 9, 37);
+    text-align: left;
+}
+
+.menu {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(59, 59, 134);
+}
